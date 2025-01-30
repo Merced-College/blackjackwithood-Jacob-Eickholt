@@ -1,6 +1,6 @@
 public class Card { 
 //data variables 
-//fields from the file = hear,ace,11,ah.gif
+// fields from the file = heart,ace,11,ah.gif
 private String suit;
 private int value;
 private String rank;
